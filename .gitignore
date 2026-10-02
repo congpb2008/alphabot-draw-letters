@@ -1,0 +1,15 @@
+# Arduino build outputs
+*.hex
+*.elf
+*.bin
+*.eep
+*.o
+*.a
+*.sym
+*.lss
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.swp
+*~
